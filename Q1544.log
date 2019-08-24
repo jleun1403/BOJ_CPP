@@ -1,0 +1,5 @@
+﻿  Q1544.cpp
+c:\users\user\desktop\최대훈\백준 알고리즘\src\visualstudio\q1544\q1544.cpp(9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\최대훈\백준 알고리즘\src\visualstudio\q1544\q1544.cpp(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Q1544.vcxproj -> C:\Users\User\Desktop\최대훈\백준 알고리즘\SRC\VisualStudio\Q1544\Debug\Q1544.exe
+  Q1544.vcxproj -> C:\Users\User\Desktop\최대훈\백준 알고리즘\SRC\VisualStudio\Q1544\Debug\Q1544.pdb (Partial PDB)

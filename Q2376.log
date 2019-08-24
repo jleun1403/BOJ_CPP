@@ -1,0 +1,7 @@
+﻿  Q2376.cpp
+c:\users\user\desktop\최대훈\백준 알고리즘\src\vs\q2376\q2376.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\최대훈\백준 알고리즘\src\vs\q2376\q2376.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  Q2376.vcxproj -> C:\Users\User\Desktop\최대훈\백준 알고리즘\SRC\VS\Debug\Q2376.exe
+  Q2376.vcxproj -> C:\Users\User\Desktop\최대훈\백준 알고리즘\SRC\VS\Debug\Q2376.pdb (Partial PDB)
